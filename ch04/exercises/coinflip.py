@@ -2,11 +2,11 @@ import turtle
 import random
 
 window = turtle.Screen()
-window.bgcolor('pink')
+window.bgcolor('pink') 
 
 Turtle = turtle.Turtle()
 
-turtle.goto(100,100)
+
 distance = 10
 angle = 90
 is_in_screen = True
